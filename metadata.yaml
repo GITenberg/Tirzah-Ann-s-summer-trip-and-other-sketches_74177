@@ -1,0 +1,33 @@
+_repo: Tirzah-Ann-s-summer-trip-and-other-sketches_74177
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holley, Marietta
+    aliases:
+    - Josiah Allen's wife
+    - Holley, Mariettta
+    birthdate: 1836
+    deathdate: 1926
+    gutenberg_agent_id: '1194'
+    url: http://www.gutenberg.org/2009/agents/1194
+    wikipedia: https://en.wikipedia.org/wiki/Marietta_Holley
+description: ''
+gutenberg_issued: '2024-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74177'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435054742937
+pgterms:marc905: 20181216163552holley
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bThe F. M. Lupton Publishing Company, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tirzah Ann's summer trip, and other sketches
+url: http://www.gutenberg.org/ebooks/74177
