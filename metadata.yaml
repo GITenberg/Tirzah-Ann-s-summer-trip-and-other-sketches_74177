@@ -1,5 +1,8 @@
 _repo: Tirzah-Ann-s-summer-trip-and-other-sketches_74177
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74177-h/images/cover.jpg
 creator:
   author:
     agent_name: Holley, Marietta
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1194
     wikipedia: https://en.wikipedia.org/wiki/Marietta_Holley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74177#Tirzah-Ann-s-summer-trip-and-other-sketches
 gutenberg_issued: '2024-08-02'
 gutenberg_type: Text
 identifiers:
